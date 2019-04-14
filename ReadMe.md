@@ -1,0 +1,1 @@
+## This is a Python script which will control de Raspi configuration when changing the IP address associated to the domain name provided by no-ip.com
